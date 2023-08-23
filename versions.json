@@ -10,5 +10,12 @@
             "id": "1By9UARyzUDhIdjCy8VI01jUbngFLdIcn",
             "checksum": "2e7dea6709023c41021f99d9e699dfe691ffc65e352bb90572f38d109c1b1379"
         }
+    },
+    "RM500Q": {
+        "stable": {
+            "version": "RM500QAEAAR11A02M4GA",
+            "id": "1yA_smx539cHj6fQFTlLn1Soqa7lJCvvN",
+            "checksum": "fdb79f8814b9b3996ba9db9c30c02c116360c3cf169acb2023c594dd4f5ce1a1"
+        }
     }
 }
